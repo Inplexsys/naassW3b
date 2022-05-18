@@ -1,11 +1,11 @@
 <h1 align="center">⚡️ Hey, you ! Welcome to my profile ! ⚡️</h1>
 
-<img src="https://cdn.discordapp.com/attachments/822589448143110174/919551736958554172/banner.png">
+<img src="https://cdn.discordapp.com/attachments/955182908086308896/955183126215282698/64fe5b3b17ad480bc54305da2d7c6428.gif">
 
 ```javascript
 const Inplex = {
     description: "A friendly developper who like ethickal hacking",
-    lang: ["Python", "Php", "Html", "Css", "Perl", "C", "Ruby", "Js"], // Most used ones
+    lang: ["Python", "Php", "Html", "C#" , "Css", "Perl", "C", "Ruby", "Java" , "Js"], // Most used ones
     tools: ["netdata", "iptables", "ufw", "pfsense"], // +12 items
     shell_tasks: [
         "apt install -y kali-tools-top10",
