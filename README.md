@@ -24,7 +24,7 @@ const Inplex = {
 
 <h2 align="center">📌 Actual Projects</h2>
     <p align="center">
-        <img width="20" src="https://cdn.discordapp.com/attachments/822589448143110174/942414947013513246/favicon.png">&nbsp;
+        <img width="20" src="https://cdn.zapp.com/attachments/822589448143110174/942414947013513246/favicon.png">&nbsp;
         <a href="https://dark-utilities.xyz/?from=github.com">
             Dark Utilities
         </a>
@@ -45,7 +45,7 @@ const Inplex = {
     </p>
     <h6 style="font-size: 10px;" align="center">An advanced <b>discord</b> raid tool & token manager & <b>bypass</b> captcha bot</h6>
 <h2 align="center">📃 Press</h2></center>
-<a href="https://discord.gg/WZjRmUknHr">
+<a href="https://discord.com">
     <p align="center"><img src="https://discord.com/api/guilds/821649812058275840/widget.png?style=banner2"></p>
 </a> 
     
