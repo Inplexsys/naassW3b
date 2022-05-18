@@ -11,21 +11,16 @@ const Inplex = {
         "apt install -y kali-tools-top10",
         "apt remove israel -y --purge"
     ],
-    projects: [
-        "https://over-spam.space/", // The best discord raid tool !!
-        "https://omega-project.cz/", // The best gmod admin panel !!
-        "https://dark-utilities.xyz" // A servers and computers manager, stress tests and crypto mining
-    ]
 }
 ```
 
 <h2 align="center">🥇 Trophies</h2>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Function-sys&amp;theme=dracula&amp;margin-w=15&amp;margin-h=15&amp;column=7" style="max-width:100%;">
+    <img src="https://github-profile-trophy.vercel.app/?username=inplex-sys&amp;theme=dracula&amp;margin-w=15&amp;margin-h=15&amp;column=7" style="max-width:100%;">
 </p>
 
 <h2 align="center">📊 Stats</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Function-sys&amp;theme=dracula&amp;show_icons=true"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=inplex-sys&amp;theme=dracula&amp;show_icons=true"></p>
 
 <h2 align="center">📌 Actual Projects</h2>
     <p align="center">
@@ -56,6 +51,6 @@ const Inplex = {
     
 <h2 align="center">📞 Discord</h2>
 
-<a href="https://discord.com/users/821649457992040478">
-    <p align="center"><img src="https://lanyard-profile-readme.vercel.app/api/821649457992040478"></p>
+<a href="https://discord.com/users/929494725667483658">
+    <p align="center"><img src="https://cdn.discordapp.com/attachments/964977919283826748/976579565856120882/unknown.png"></p>
 </a>
