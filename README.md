@@ -24,22 +24,22 @@ const Inplex = {
 
 <h2 align="center">📌 Actual Projects</h2>
     <p align="center">
-        <img width="20" src="https://cdn.zapp.com/attachments/822589448143110174/942414947013513246/favicon.png">&nbsp;
-        <a href="https://dark-utilities.xyz/?from=github.com">
+        <img width="20" src="https://cdn.app.com/attachments/822589448143110174/942414947013513246/favicon.png">&nbsp;
+        <a href="https://dark-utilities.com/?from=github.com">
             Dark Utilities
         </a>
     </p>
     <h6 style="font-size: 10px;" align="center">An online botnet manager, game bypasses methods, usable on win64-32, linux64-32, python</h6>
     <p align="center">
         <img width="20" src="https://user-images.githubusercontent.com/69421356/132992532-cab4ec4e-d08c-48cb-89be-b43791ead1bc.png">&nbsp;
-        <a href="https://omega-project.cz/?from=github.com">
+        <a href="https://omega-project.com/?from=github.com">
             Ʊmega Project
         </a>
     </p>
     <h6 style="font-size: 10px;" align="center">An admin panel for garry's mod, scraper, proxies, online compiler ...</h6>
     <p align="center">
         <img width="20" src="https://user-images.githubusercontent.com/69421356/132992407-b12ab596-95d1-4739-851f-930e9fa5c952.png">&nbsp;
-        <a href="https://over-spam.space/?from=github.com">
+        <a href="https://over-spam.com/?from=github.com">
             OverSpam
         </a>
     </p>
