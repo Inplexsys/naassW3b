@@ -43,7 +43,7 @@ const Inplex = {
             OverSpam
         </a>
     </p>
-    <h6 style="font-size: 10px;" align="center">An advanced <b>discord</b> raid tool & token manager & <b>bypass</b> captcha bot</h6>
+    <h6 style="font-size: 10px;" align="center">An advanced: <b>discord</b> raid tool & token manager & <b>bypass</b> captcha bot</h6>
 <h2 align="center">📃 Press</h2></center>
 <a href="https://discord.com">
     <p align="center"><img src="https://discord.com/api/guilds/821649812058275840/widget.png?style=banner2"></p>
